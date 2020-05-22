@@ -68,13 +68,13 @@ php artisan serve
 ```
 
 ###### Login and access project
-`Login modules are implemented underlying Laravel instance. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.`
+Login modules are implemented underlying Laravel instance. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.
 
 ###### Build resources:
 ```
 gulp
 ```
-`CSS and JS will be built and moved into the vendor laravel instance automatically.`    
+CSS and JS will be built and moved into the vendor laravel instance automatically.
 
 ###### Watch for changes and build automatically:
 ````
