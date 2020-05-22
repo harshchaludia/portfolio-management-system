@@ -20,19 +20,18 @@ A sample "test.sql" file is attached with this project, to get started.
 
 ## Implementation
 
-#### Getting Started
 
-##### Clone this repo:
+#### Clone this repo:
 ```
 git clone https://github.com/harshchaludia/portfolio-management-system.git
 ```
 
-##### Install php dependencies:
+#### Install php dependencies:
 ```
 composer install
 ```
 
-##### Install javascript dependencies:
+#### Install javascript dependencies:
 ```
 yarn
 ```
@@ -41,7 +40,7 @@ Or, if you like pain and suffering:
 npm install
 ```
 
-##### Set up database connections
+#### Set up database connections
 Edit the .env file attached with this project.
 add the mysql details, to get started.
 
@@ -55,28 +54,28 @@ DB_PASSWORD=
 
 ```
 
-##### Run database migrations
+#### Run database migrations
 ```
 php artisan migrate
 ```
 
-##### Serving the project
+#### Serving the project
 
 ```
 php artisan serve
 
 ```
 
-##### Login and access project
+#### Login and access project
 Login modules are implemented underlying Laravel instance. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.
 
-##### Build resources:
+#### Build resources:
 ```
 gulp
 ```
 CSS and JS will be built and moved into the vendor laravel instance automatically.
 
-##### Watch for changes and build automatically:
+#### Watch for changes and build automatically:
 ````
 gulp watch
 ````
