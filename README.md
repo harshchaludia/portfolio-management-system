@@ -6,7 +6,7 @@
 
 ## Portfolio Management System
 
-This portfolio framework is be a premium module outlined to empower you to orchestrate your ventures and display your works for the guests of your site. It can as well be alluded to as a catalogue for any kind of things. This system permits you to form a full portfolio of your works and experiences, along with your profile. All your works will be divided into categories which are, in their turn, are partitioned into sections. Each portfolio features is a brief depiction which is shown within the list of categories.
+This portfolio framework is a premium module outlined to empower you, to orchestrate your ventures and display your works for the guests of your site. It can used as a catalogue too for any kind of motives. This system permits you to form a full portfolio of your works and experiences, along with your profile. All your works will be divided into categories which are, in their turn, are partitioned into sections. Each portfolio features is a brief depiction which is shown within the list of categories.
 
 Features:
 - Authentication Modules.
