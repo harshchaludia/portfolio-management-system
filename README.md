@@ -95,7 +95,7 @@ php artisan serve
 
 </p><br>
 
-Login modules are implemented underlying Laravel instance. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.
+Login modules are implemented underlying Laravel instance. To singUp, simply hit the /register route. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.
 
 #### Build resources:
 ```
