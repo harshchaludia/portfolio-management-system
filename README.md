@@ -18,6 +18,25 @@ Features:
 
 A sample "test.sql" file is attached with this project, to get started.
 
+## Screenshots
+
+<p float="center">
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/dashboard.PNG" width="24%" />
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/about.PNG" width="24%" /> 
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/projects.PNG" width="24%" />
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/experience.PNG" width="24%" />
+    </p>
+    <br>
+    <p float="center">
+
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/blog.PNG" width="24%" />
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/services.PNG" width="24%" />
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/contact.PNG" width="24%" />
+      <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/skills.PNG" width="24%" />
+
+</p>
+
+
 ## Implementation
 
 
@@ -67,6 +86,15 @@ php artisan serve
 ```
 
 #### Login and access project
+ <br>
+    <p align="center">
+
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/login.PNG" width="30%" />
+  <img src="https://github.com/harshchaludia/portfolio-management-system/blob/master/screenshots/register.PNG" width="30%" />
+
+
+</p><br>
+
 Login modules are implemented underlying Laravel instance. To singIn, simply hit the /login route. A user will be logged in and you will be redirected to /admin.
 
 #### Build resources:
